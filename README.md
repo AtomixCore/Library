@@ -3,7 +3,7 @@
 This repository serves as a central archive for AtomixCore’s internal research papers, theoretical explorations, and curated books.  
 It is intended to document, organize, and make accessible the intellectual resources that shape the philosophy and development of AtomixCore projects.
 
-Whether you're exploring agentic AI, autonomous systems, or the foundations of artificial consciousness — this library is where all key materials are collected.
+This library is a knowledge base for software engineers — covering theory, architecture, and research that supports thoughtful, modern software design.
 
 ## Purpose
 
